@@ -1,5 +1,6 @@
 ## Wassup, I'm Visual! 👋  
 I'm just a regular 14-year-old coder on the internet.
+
 Currently know C# and learning C++
 
 ---
