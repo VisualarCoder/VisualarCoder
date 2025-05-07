@@ -1,5 +1,11 @@
 ## Wassup, I'm Visual! 👋  
 I'm just a regular 14-year-old coder on the internet.
+Currently know C# and learning C++
+
+---
+
+## My current projects
+[Monkey Bunch](https://meta.com/experiences/)
 
 ---
 
