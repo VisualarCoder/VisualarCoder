@@ -4,11 +4,9 @@ I'm just a regular 14-year-old coder on the internet.
 ---
 
 ### 🧠 Coding Languages
-<p align="center">
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
-  </a>
-</p>
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
+</a>
 
 ## 🧠 Languages I am currently learning
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
