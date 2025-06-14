@@ -11,8 +11,10 @@ Currently know C# and learning C++
 
 [Monkey Bunch (Steam)](https://store.steampowered.com/app/3230440/Monkey_Bunch/)
 
+Viscord (In Development)
+
 ## C++
-Visualar Engine (In Development)
+Visualar Engine (Development Paused)
 
 ---
 
