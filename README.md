@@ -32,4 +32,5 @@ Visual (In Development)
 ---
 
 ### 📊 GitHub Profile Stats
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VisualarCoder&layout=compact&langs_count=8&theme=default)](https://github.com/VisualarCoder)
 [![Visuals's GitHub stats](https://github-readme-stats.vercel.app/api?username=VisualarCoder)](https://github.com/anuraghazra/github-readme-stats)
